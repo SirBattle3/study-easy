@@ -1,5 +1,5 @@
 package ShareAttributes;
 
-public class Achievements {
+public class Achievement {
 
 }
